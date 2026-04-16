@@ -228,4 +228,4 @@ no sea solo aprender un lenguaje de programación, sino aprender una **forma de 
 
 ---
 
-*Módulo 01 — Historia de Python | Curso Intensivo de Repaso Python*
+*Módulo 00 — Historia de Python | Curso Intensivo de Repaso Python*

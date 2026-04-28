@@ -28,12 +28,12 @@
 
 | # | Ejercicio | Módulo relacionado | Estado |
 |---|-----------|-------------------|--------|
-| 01 | [Práctica 01](/prácticas/Modulo%201/practica_01.py) | Sintaxis y Variables | Completado |
-| 02 | [Práctica 02](/prácticas/Modulo%201/practica_02.py) | Sintaxis y Variables | Completado |
-| 03 | [Práctica 03](/prácticas/Modulo%201/practica_03.py) | Sintaxis y Variables | Completado |
-| 04 | [Práctica 04](/prácticas/Modulo%201/practica_04.py) | Sintaxis y Variables | Completado |
-| 05 | [Práctica 05](/prácticas/Modulo%201/practica_05.py) | Sintaxis y Variables | Completado |
-| 06 | [Práctica 06](/prácticas/Modulo%201/practica_06.py) | Sintaxis y Variables | Completado |
+| 01 | [Práctica 01](/prácticas/Modulo%201/practica_01.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 02 | [Práctica 02](/prácticas/Modulo%201/practica_02.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 03 | [Práctica 03](/prácticas/Modulo%201/practica_03.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 04 | [Práctica 04](/prácticas/Modulo%201/practica_04.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 05 | [Práctica 05](/prácticas/Modulo%201/practica_05.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 06 | [Práctica 06](/prácticas/Modulo%201/practica_06.py) | Módulo 1. Sintaxis y Variables | Completado |
 | 07 | Práctica 07 | Sintaxis y Variables | Pendiente... |
 
 ---

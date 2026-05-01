@@ -34,9 +34,9 @@
 | 04 | [Variable local vs global](/prácticas/Modulo%201/local_vs_global.py) | Módulo 1. Sintaxis y Variables | Completado |
 | 05 | [Errores de sintaxis](/prácticas/Modulo%201/errores_de_tipado.py) | Módulo 1. Sintaxis y Variables | Completado |
 | 06 | [Validando tipo de dato](/prácticas/Modulo%201/validando_tipo_de_dato.py) | Módulo 1. Sintaxis y Variables | Completado |
-| 07 | [Funciones Built-In](/prácticas/Modulo%201/funciones_built-in.py) | Módulo 1. Sintaxis y Variables | Completo |
-| 08 | [Tipado dinamico](/prácticas/Modulo%201/tipado_dinamico.py) | Módulo 1. Sintaxis y Variables | Completo |
-| 09 | [NoneType y built-in](/prácticas/Modulo%201/noneType_y_Built-ins.py) | Módulo 1. Sintaxis y Variables | Completo |
+| 07 | [Funciones Built-In](/prácticas/Modulo%201/funciones_built-in.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 08 | [Tipado dinamico](/prácticas/Modulo%201/tipado_dinamico.py) | Módulo 1. Sintaxis y Variables | Completado |
+| 09 | [NoneType y built-in](/prácticas/Modulo%201/noneType_y_Built-ins.py) | Módulo 1. Sintaxis y Variables | Completado |
 
 ---
 

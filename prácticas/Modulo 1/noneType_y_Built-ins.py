@@ -9,16 +9,16 @@ def buscar_mayor(lista):
 
 """
 
-lista = []
+# lista = []
 # lista = ["dos", 5, True, 3.14, None, -10, 'doce']  No es posible buscar números de forma directa entre diferentes tipos de datos, así que esta lista retornaría un error
-# lista = [2, -7, 10, .101, -1000, 6, 10.1]
+lista = [2, -7, 10, .101, -1000, 6, 10.1]
 
 def buscar_mayor(lista):
 
-    if len(lista) == 0: # Si la lista está vacía, retorna None
+    if len(lista) > 0: # Si al comparar tiene más de 0 retorna el mayor elemento
+        return f'El mayor elemento dentro de la lista es: {max(lista)}'
+
+    else: # Si la lista está vacía, retorna None
         return None
 
-    else: # Si no, retorna el mayor elemento
-        return print(f'El mayor elemento dentro de la lista es: {max(lista)}')
-
-buscar_mayor(lista)
+print(buscar_mayor(lista))

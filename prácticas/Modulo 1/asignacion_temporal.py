@@ -1,12 +1,11 @@
-a = "Python"
-b = "Java"
-
 # Forma 1: usando una variable temporal
 # (como se haría en C, Java, etc.)
 
 # Forma 2: la forma pythónica
 # (una sola línea, sin variable auxiliar)
 
+a = "Python"
+b = "Java"
 
 #Forma 1
 temp = a
